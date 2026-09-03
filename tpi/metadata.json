@@ -28,8 +28,8 @@
 "showAdaptationNoticeForNonEnglish": false
 },
 "adaptation_notice": "",
-"resource_code": "BukBaibellongTokPisin",
-"date_created": "2026-07-30",
+"resource_code": "TokPisinBible2008",
+"date_created": "2026-09-03",
 "language": "tpi",
 "localizations": [],
 "order": "canonical",
@@ -41,7 +41,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-07-30T18:46:45.829703"
+"dateCreated": "2026-09-03T13:20:58.738826"
 },
 "idAuthorities": {
 "aquifer": {
@@ -54,8 +54,8 @@
 "identification": {
 "primary": {
 "aquifer": {
-"BukBaibellongTokPisin": {
-"timestamp": "2026-07-30T18:46:45.829703"
+"TokPisinBible2008": {
+"timestamp": "2026-09-03T13:20:58.738826"
 }
 }
 },
